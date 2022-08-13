@@ -5,7 +5,7 @@ import storeItems from "../data/items.json";
 import CartItem from "./CartItem";
 
 type ShoppingCartProps = {
-  isOpen: Boolean;
+  isOpen: boolean;
 };
 
 export default function ShoppingCart({ isOpen }: ShoppingCartProps) {
