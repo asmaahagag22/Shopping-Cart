@@ -1,0 +1,24 @@
+button.w-100.bg-primary {
+    border: none;
+    height: 40px;
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+    font-weight: 500;
+}
+button.bg-primary {
+    height: 40px;
+    width: 40px;
+    color: white;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 900;
+    border: none;
+}
+button.bg-danger {
+    font-weight: 600;
+    width: 100px;
+    height: 40px;
+    border: none;
+    color: white;
+    border-radius: 5px;}

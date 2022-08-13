@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Stick",
+    "price": 265.78,
+    "imgUrl": "../../imgs/download.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Necklace",
+    "price": 1199,
+    "imgUrl": "../../imgs/lknjk.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Plateform",
+    "price": 1.05,
+    "imgUrl": "../../imgs/ml.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Sweeper",
+    "price": 14000,
+    "imgUrl": "../../imgs/OIP.jpg"
+  }
+]
